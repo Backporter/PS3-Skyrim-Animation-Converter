@@ -1,0 +1,11 @@
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\bin\Debug\PS3-Skyrim-Animation-Converter.exe.config
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\bin\Debug\PS3-Skyrim-Animation-Converter.exe
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\bin\Debug\PS3-Skyrim-Animation-Converter.pdb
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\obj\Debug\PS3_Skyrim_Animation_Converter.Main.resources
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\obj\Debug\PS3_Skyrim_Animation_Converter.Properties.Resources.resources
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\obj\Debug\PS3-Skyrim-Animation-Converter.csproj.GenerateResource.cache
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\obj\Debug\PS3-Skyrim-Animation-Converter.csproj.CoreCompileInputs.cache
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\obj\Debug\PS3-Skyrim-Animation-Converter.exe
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\obj\Debug\PS3-Skyrim-Animation-Converter.pdb
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\obj\Debug\PS3_Skyrim_Animation_Converter.Credits.resources
+C:\Users\Logan Melott\source\repos\PS3-Skyrim-Animation-Converter\PS3-Skyrim-Animation-Converter\obj\Debug\PS3-Skyrim-Animation-Converter.csprojAssemblyReference.cache
